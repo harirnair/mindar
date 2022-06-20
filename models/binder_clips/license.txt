@@ -1,0 +1,11 @@
+Model Information:
+* title:	binder clips
+* source:	https://sketchfab.com/3d-models/binder-clips-5e55c38b24dc4c239448efa1c6b7f49f
+* author:	blacksheeptal (https://sketchfab.com/blacksheeptal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "binder clips" (https://sketchfab.com/3d-models/binder-clips-5e55c38b24dc4c239448efa1c6b7f49f) by blacksheeptal (https://sketchfab.com/blacksheeptal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
