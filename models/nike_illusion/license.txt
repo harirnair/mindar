@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nike Illusion
+* source:	https://sketchfab.com/3d-models/nike-illusion-1fe89df3ba5e45f28b0fdabc760274c7
+* author:	tg (https://sketchfab.com/tgaaaaaaaaaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nike Illusion" (https://sketchfab.com/3d-models/nike-illusion-1fe89df3ba5e45f28b0fdabc760274c7) by tg (https://sketchfab.com/tgaaaaaaaaaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
